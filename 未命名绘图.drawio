@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T11:57:22.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.8.0" etag="mhvgqiBQKJ-b_1WRrAbV" type="github"><diagram id="qgLbHNVYUiXtFtFjlrxA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-18T12:31:31.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="_WSbd6at5Hw757aPtyPB" version="14.8.0" type="github">
+  <diagram id="qgLbHNVYUiXtFtFjlrxA" name="第 1 页">
+    <mxGraphModel dx="1133" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-1" value="集团管理&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-2" value="业务线管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-3" value="集群管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-4" value="集群流水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-5" value="接口基础管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-6" value="接口流水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-7" value="接口流水额外信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-8" value="委派管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-9" value="Task&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-10" value="WFManget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-13" value="WF自动化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-14" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-15" value="HAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-17" value="未接入WF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-18" value="无效API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-19" value="集群数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-20" value="接口数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-21" value="响应超时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-22" value="未接入HAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-23" value="自动化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-24" value="服务器相关等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-25" value="终端统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-26" value="接口返回NULL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-27" value="增长率异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-28" value="超时次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-29" value="Web&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-180" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-31" value="工单委派" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-180" width="80" height="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
