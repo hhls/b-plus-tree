@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T12:33:19.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="C3Rfk3YnyHZQS2vairss" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T12:36:47.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="lwcr3fIa52rwEdpREdA7" version="14.8.0" type="github">
   <diagram id="qgLbHNVYUiXtFtFjlrxA" name="第 1 页">
     <mxGraphModel dx="1133" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="bxmFDgcZLzTcHngmbZlg-8" value="委派管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bxmFDgcZLzTcHngmbZlg-9" value="Task&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-9" value="Task&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bxmFDgcZLzTcHngmbZlg-10" value="WFManget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,10 +79,10 @@
         <mxCell id="bxmFDgcZLzTcHngmbZlg-28" value="超时次数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bxmFDgcZLzTcHngmbZlg-29" value="Web&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-29" value="Web&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="-180" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bxmFDgcZLzTcHngmbZlg-31" value="工单委派" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bxmFDgcZLzTcHngmbZlg-31" value="工单委派" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="790" y="-180" width="80" height="570" as="geometry" />
         </mxCell>
       </root>
